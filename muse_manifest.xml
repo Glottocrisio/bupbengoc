@@ -1,0 +1,110 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cosimo.palma@protonmail.com" resolutions="1x" timestamp="1566155581552">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="projects.css" crc="3993240728" ref="projects"/>
+    <file name="curriculum-vitae.css" crc="3855696676" ref="curriculum-vitae"/>
+    <file name="philosophical-articles.css" crc="4193191577" ref="philosophical-articles"/>
+    <file name="index.css" crc="3778684622" ref="index"/>
+    <file name="blog.css" crc="4262204671" ref="blog"/>
+  </folder>
+  <folder name="assets">
+    <file name="resume_cosimo_palma_updated.pdf" crc="4173045908" seo="true" mt="1565705567000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:blog:philosophical-articles:curriculum-vitae:projects"/>
+    <file name="museutils.js" crc="340535759" ref="index:blog:philosophical-articles:curriculum-vitae:projects"/>
+    <file name="whatinput.js" crc="86476730" ref="index:blog:philosophical-articles:curriculum-vitae:projects"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:blog:philosophical-articles:curriculum-vitae:projects"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:blog:curriculum-vitae:projects"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u1287.php" crc="3881051846" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:blog:philosophical-articles:curriculum-vitae:projects"/>
+    <file name="require.js" crc="7928878" ref="index:blog:philosophical-articles:curriculum-vitae:projects"/>
+  </folder>
+  <folder name="images">
+    <file name="pulcinelladimare.jpg" crc="526447448" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="violin-clown.jpg" crc="302528812" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="web.jpg" crc="3888490173" ref="index:blog">
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="wire-frequence.jpg" crc="4020667669" ref="index:projects">
+      <caption webpage="index" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="plants-fractal.jpg" crc="3946613069" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2315-4.png" crc="3780367339" ref="index"/>
+    <file name="manblackmask.jpg" crc="422671889" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1278-6.png" crc="4120746926" ref="index"/>
+    <file name="engelskonz.jpg" crc="4124012119" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2318-4.png" crc="4229091482" ref="index"/>
+    <file name="u809-20.png" crc="6490265" ref="index"/>
+    <file name="u2533-4.png" crc="206298936" ref="index"/>
+    <file name="utr_logo.jpg" crc="4279774838" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="federico-ii-logo.jpg" crc="79669785" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="heinrichheinelogo.jpg" crc="400730756" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2536-4.png" crc="3899150377" ref="index"/>
+    <file name="eurocontrol.jpg" crc="4282015218" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="europeanparliamentlogo-u2545-fr.jpg" crc="3932685388" ref="index"/>
+    <file name="u1284-4.png" crc="290528296" ref="index"/>
+    <file name="u1289.png" crc="4148620867" ref="index"/>
+    <file name="u1289-ferr.png" crc="474106855" ref="index"/>
+    <file name="u1302.png" crc="200029729" ref="index"/>
+    <file name="u1302-ferr.png" crc="403427099" ref="index"/>
+    <file name="u1297.png" crc="407661203" ref="index"/>
+    <file name="u1297-ferr.png" crc="508116992" ref="index"/>
+    <file name="u1299.png" crc="473301360" ref="index"/>
+    <file name="u1299-r.png" crc="204059439" ref="index"/>
+    <file name="alogo.jpg" crc="156592777" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="researchgatelogo.jpg" crc="297080150" ref="index"/>
+    <file name="githublogo.jpg" crc="380725961" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linkedin-logo.png" crc="319560904" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitterlogo.jpg" crc="4185640272" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2779-4.png" crc="4121892142" ref="blog"/>
+    <file name="u2782-8.png" crc="471762391" ref="blog"/>
+    <file name="u2791-4.png" crc="4080462622" ref="blog"/>
+    <file name="pulcinelladimare-u2653-fr.jpg" crc="254231112" ref="curriculum-vitae"/>
+    <file name="u2767-4.png" crc="429970113" ref="projects"/>
+    <file name="u2770-9.png" crc="4259972718" ref="projects"/>
+    <file name="u2800-4.png" crc="429697749" ref="projects"/>
+  </folder>
+  <file name="index.html" crc="4290957840" seo="true" mt="1566142066958" redirect="true"/>
+  <file name="blog.html" crc="3796450861" seo="true" mt="1565799353921" redirect="true"/>
+  <file name="philosophical-articles.html" crc="68499231" seo="true" mt="1565554645695" redirect="false"/>
+  <file name="curriculum-vitae.html" crc="4229132604" seo="true" mt="1565704386335" redirect="true"/>
+  <file name="projects.html" crc="3837477812" seo="true" mt="1565799380514" redirect="true"/>
+</manifest>
